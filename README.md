@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Kodja 
+
+## I'm a data enthusiast from Indonesia :hugs:
+
+- 🔭 I’m currently working on BCA Insurance as Data Analyst. 
+
+- 🌱 I’m also learning about how to become a data scientist. :nerd_face:
+
 
 <!--
 **safkodja/safkodja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
